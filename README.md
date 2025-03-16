@@ -1,4 +1,4 @@
-# FIVEM Scoreboard
+# FIVEM QB Scoreboard
 ## Basic Scoreboard Free & Open :D
 
 Enjoy!
