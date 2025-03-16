@@ -1,4 +1,4 @@
-# FIVEM-TOP-HUD
+# FIVEM Scoreboard
 ## Basic Scoreboard Free & Open :D
 
 Enjoy!
